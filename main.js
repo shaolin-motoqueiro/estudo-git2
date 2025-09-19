@@ -1,0 +1,1 @@
+let n1 = prompt("Enter first number:");
